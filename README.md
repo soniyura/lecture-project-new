@@ -1,6 +1,8 @@
 # lecture-project-new
 
+
 this is discription of this project
 
 
 THIS IS CHANGE
+THIS IS CHANGETHIS IS CHANGETHIS IS CHANGETHIS IS CHANGETHIS IS CHANGETHIS IS CHANGETHIS IS CHANGE
